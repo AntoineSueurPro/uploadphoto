@@ -39,7 +39,7 @@ if (isset($_FILES['photo'])) {
         }
     }
     else {
-        echo '<div class="alert alert-danger>"' . $error . '</div>';
+        echo '<div>' . $error . '</div>';
     }
 }
 
