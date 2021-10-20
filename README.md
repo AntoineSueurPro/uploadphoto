@@ -1,4 +1,4 @@
-# uploadphoto
+# Upload Photo
 
 Code du tutoriel sur l'upload de photo en PHP
 
